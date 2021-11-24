@@ -1,0 +1,16 @@
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\bin\Debug\netcoreapp3.1\Program.exe
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\bin\Debug\netcoreapp3.1\Program.deps.json
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.json
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\bin\Debug\netcoreapp3.1\Program.runtimeconfig.dev.json
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\bin\Debug\netcoreapp3.1\Program.dll
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\bin\Debug\netcoreapp3.1\Program.pdb
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\obj\Debug\netcoreapp3.1\Program.csprojAssemblyReference.cache
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfoInputs.cache
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\obj\Debug\netcoreapp3.1\Program.AssemblyInfo.cs
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\obj\Debug\netcoreapp3.1\Program.csproj.CoreCompileInputs.cache
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\obj\Debug\netcoreapp3.1\Program.csproj.CopyComplete
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\obj\Debug\netcoreapp3.1\Program.dll
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\obj\Debug\netcoreapp3.1\Program.pdb
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\obj\Debug\netcoreapp3.1\Program.genruntimeconfig.cache
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Danil\Desktop\IP_Lab_1-master\Program\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
